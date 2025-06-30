@@ -2,6 +2,7 @@ import javax.swing.*;
 import java.awt.*;
 
 public class GridBagLayoutExample {
+    
     public static void main(String[] args) {
         JFrame frame = new JFrame("GridBagLayout Example");
         frame.setDefaultCloseOperation(JFrame.EXIT_ON_CLOSE);

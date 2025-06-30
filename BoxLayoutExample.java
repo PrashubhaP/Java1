@@ -1,6 +1,7 @@
 import javax.swing.*; // Needed for JFrame, JPanel, JButton, BoxLayout
 
 public class BoxLayoutExample {
+    
     public static void main(String[] args) {
         // Create a frame
         JFrame frame = new JFrame("BoxLayout Example");
